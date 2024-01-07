@@ -22,7 +22,7 @@
 bam file for genotype imputation including full path
 
 * 26  
-Imputation on specified chromosomec
+Imputation on specified chromosome
 
 # Output file
 * time.txt  
