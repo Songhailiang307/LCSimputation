@@ -20,7 +20,20 @@
 # Description of argumentsc
 * allbam.list  
 bam file for genotype imputation including full path.
-
+```
+/data/songhl/Seq-500/Datadeal/bam/DownDepth/2x/QDH10.marked_duplicates.downsampled.bam
+/data/songhl/Seq-500/Datadeal/bam/DownDepth/2x/QDH12.marked_duplicates.downsampled.bam
+/data/songhl/Seq-500/Datadeal/bam/DownDepth/2x/QDH13.marked_duplicates.downsampled.bam
+/data/songhl/Seq-500/Datadeal/bam/DownDepth/2x/QDH14.marked_duplicates.downsampled.bam
+/data/songhl/Seq-500/Datadeal/bam/DownDepth/2x/QDH1526.marked_duplicates.downsampled.bam
+/data/songhl/Seq-500/Datadeal/bam/DownDepth/2x/QDH1527.marked_duplicates.downsampled.bam
+/data/songhl/Seq-500/Datadeal/bam/DownDepth/2x/QDH1528.marked_duplicates.downsampled.bam
+/data/songhl/Seq-500/Datadeal/bam/DownDepth/2x/QDH1529.marked_duplicates.downsampled.bam
+/data/songhl/Seq-500/Datadeal/bam/DownDepth/2x/QDH1530.marked_duplicates.downsampled.bam
+/data/songhl/Seq-500/Datadeal/bam/DownDepth/2x/QDH1531.marked_duplicates.downsampled.bam
+/data/songhl/Seq-500/Datadeal/bam/DownDepth/2x/QDH1532.marked_duplicates.downsampled.bam
+...
+```
 * 26  
 Imputation on specified chromosome.
 
