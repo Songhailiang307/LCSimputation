@@ -84,3 +84,7 @@ bam file for genotype imputation including full path. The bam file is too large 
 
 * id.txt  
 ID file used for validated imputation accuracy.
+# Publication
+Hailiang Song, Tian Dong, Wei Wang, Boyun Jiang, Xiaoyu Yan, Chenfan Geng, Song Bai, Shijian Xu, Hongxia Hu,
+Cost-effective genomic prediction of critical economic traits in sturgeons through low-coverage sequencing,
+Genomics, 2024, 116 (4): 110874, https://doi.org/10.1016/j.ygeno.2024.110874.
